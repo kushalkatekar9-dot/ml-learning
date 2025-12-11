@@ -1,2 +1,9 @@
-HEY THERE 
-As said by the name i will be documenting my ml journey and this will also serve as my notes 
+# Machine Learning Practice Repository �
+
+Welcome!  
+This repository documents my journey as I learn ML  
+
+## Goals  
+Maintain consistency by making small improvements daily 
+
+Stay tuned — this repo will grow every day as I learn more.
